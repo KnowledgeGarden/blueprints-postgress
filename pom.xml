@@ -255,7 +255,7 @@
  		<dependency>
             <groupId>org.topicquests</groupId>
             <artifactId>tq-support</artifactId>
-            <version>1.7.1</version>
+            <version>1.7.3-SNAPSHOT</version>
         </dependency>
     	<dependency>
 			<groupId>net.minidev</groupId>
